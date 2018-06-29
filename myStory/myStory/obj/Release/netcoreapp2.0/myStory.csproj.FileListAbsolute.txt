@@ -1,0 +1,11 @@
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\bin\Release\netcoreapp2.0\myStory.deps.json
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\bin\Release\netcoreapp2.0\myStory.runtimeconfig.json
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\bin\Release\netcoreapp2.0\myStory.runtimeconfig.dev.json
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\bin\Release\netcoreapp2.0\myStory.dll
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\bin\Release\netcoreapp2.0\myStory.pdb
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\obj\Release\netcoreapp2.0\myStory.csproj.CoreCompileInputs.cache
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\obj\Release\netcoreapp2.0\myStory.AssemblyInfoInputs.cache
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\obj\Release\netcoreapp2.0\myStory.AssemblyInfo.cs
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\obj\Release\netcoreapp2.0\myStory.dll
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\obj\Release\netcoreapp2.0\myStory.pdb
+C:\Users\Elisa Martinez\source\repos\myStory\myStory\obj\Release\netcoreapp2.0\myStory.csprojAssemblyReference.cache
